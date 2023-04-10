@@ -75,7 +75,7 @@ def handleInterrupt(timer):# 声明handleInterrupt中断处理函数
                 delay=0.0001
         interruptCounter = 1
                 
-timer.init(period=10, mode=machine.Timer.PERIODIC, callback=handleInterrupt)
+timer.init(period=10, mode=Timer.PERIODIC, callback=handleInterrupt)
 
 while True:
     if mod == 1:
