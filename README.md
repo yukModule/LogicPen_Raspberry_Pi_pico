@@ -1,6 +1,7 @@
 > 图片内容为第一版，oled布局以调整
 # MkM_LogicPen
-![mk.png](pic/mk.png)
+![1](pic/p1.png)
+![2](pic/p2.png)
 
 ## 介绍
 **LogicPen**功能简述:
