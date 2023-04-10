@@ -1,4 +1,4 @@
-> 图片内容为第一版，已经将已知问题修复
+> 图片内容为第一版，oled布局以调整
 # MkM_LogicPen
 ![mk.png](pic/mk.png)
 
@@ -81,10 +81,24 @@ import logic_pen
     - SDA SCL VCC GND 
 - pcb板厚我采用的是1.6mm，建议按照个人需求自行修改
 
-## 材料清单
+## 物料清单
+|标准器件|数量|
+|---|---|
+|Res_0805 10k|2|
+|Res_0805 1k|1|
+|Res_0805 100|1|
+|Res_0805 10|1|
+|PTS525SM15SMTR2LFS|4|
+|MSK-12C01-07|4|
+|[插件] 2.54mm 1*20P 直排母-H5.0 (可选)|2|
+|KH-2.54FH-1X4P-H8.5 (可选)|1|
 
 ## 原理图
+![sche](pic/sche.png)
 
 ## PCB
+![pcb](pic/pcb1.png)
+![pcb](pic/pcb2.png)
 
 ## 3D视图
+![3d](pic/3d.png)
